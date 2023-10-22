@@ -30,10 +30,10 @@ const Projects = () => {
             </h2>
             <h3 className='h3 max-w-[700px] mb-12'>
               I'm a passionate software engineer with expertise in: <br></br><br></br>
-              BACKEND - C#: .Net Core, ASP.Net Core; <br></br> Java : Springboot / Hibernate <br></br><br></br>
+              BACKEND - C#: .Net Core, ASP.Net Core; Java : Springboot / Hibernate <br></br><br></br>
               FRONTEND - HTML5, CSS3, JavaScript, JQuery, AJAX, php, React.js, Typescript  <br></br><br></br>
-              MOBILE DEVELOPMENT - Android Studio,<br></br> React Native, Flutter<br></br><br></br>
-              Machine Learning / AI: LSTM, CNN, NLP;  Analytics - RStudio, SPSS.
+              MOBILE DEVELOPMENT - Android.<br></br><br></br>
+              Machine learning: LSTM, CNN, , AI, Analytics - RStudio, SPSS.
             </h3>
             <button className='btn btn-sm'>Check Out my Work!</button>
           </div>
